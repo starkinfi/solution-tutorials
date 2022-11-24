@@ -184,3 +184,6 @@ Depending on the resource it might not be deleted immediately, but retained (by 
 * [Serverless Computing](https://www.ibm.com/cloud/learn/serverless)
 * [More code patterns on serverless](https://developer.ibm.com/patterns/category/serverless/)
 * [Getting started with {{site.data.keyword.codeenginefull_notm}}](https://{DomainName}/docs/codeengine?topic=codeengine-getting-started)
+
+<a href="https://discoveryengine.tech/cloud-security/">top cloud security companies
+</a>
